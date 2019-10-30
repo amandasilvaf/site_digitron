@@ -1,0 +1,241 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.carousel-item img  {
+    height: 350px;
+}
+
+.logo img {
+    width: 200px;
+}
+
+.top .container-fluid {
+    background-color:#989c9c;
+    font-size: 15px;
+    color: #fff;
+    height: 30px;
+}
+
+.top .fas{
+    font-size: 20px;
+}
+
+.top .row {
+    padding-top: 5px;
+}
+
+
+#sobre{
+    margin-top: 40px;
+}
+#sobre img {
+    width: 300px;
+    height: 200px;
+}
+#sobre hr {
+    border: 2px solid;
+    margin: 5px 45% 30px;
+    color: #306985;
+}
+#sobre p{
+    text-align: center;
+    font-size: 20px;
+    
+}
+#criminalidade .table-responsive-sm{
+
+    margin: 20px 15% 20px 15%;
+}
+#criminalidade hr {
+    border: 2px solid;
+    margin: 5px 45% 30px;
+    color: #306985;
+}
+#criminalidade p{
+    text-align: center;
+    font-size: 20px;
+    
+}
+#criminalidade {
+    margin-top: 40px;
+    
+}
+
+
+#seguranca{
+    margin-top: 40px;
+}
+#seguranca hr{
+    border: 2px solid;
+    margin: 5px 45% 30px;
+    color: #306985;
+}
+#seguranca .card img{
+    height: 230px;
+}
+#seguranca .card{
+    text-align: center;
+}
+
+#assistencia{
+    margin-top: 40px;
+}
+#assistencia hr{
+    border: 2px solid;
+    margin: 5px 45% 30px;
+    color: #306985;
+}
+
+#automacao{
+    margin-top: 40px;
+}
+#automacao hr{
+    border: 2px solid;
+    margin: 5px 45% 30px;
+    color: #306985;
+}
+
+#tv{
+    margin-top: 40px;
+}
+#tv hr{
+    border: 2px solid;
+    margin: 5px 45% 30px;
+    color: #306985;
+}
+
+
+#galeria {
+    margin-top: 40px;
+}
+#galeria .container{
+    padding-top: 20px;
+    background-color:whitesmoke;
+}
+#galeria hr{
+    border: 2px solid;
+    margin: 5px 45% 30px;
+    color: #306985;
+}
+#galeria p{
+    text-align: center;
+    font-size: 25px;
+}
+
+#galeria .row img:hover{
+    transform: translateY(-5px);
+    cursor: pointer;
+}
+
+#revenda{
+    margin-top: 40px;
+    text-align: center;
+}
+#revenda p{
+    text-align: center;
+    font-size: 20px;
+}
+#revenda hr{
+    border: 2px solid;
+    margin: 5px 45% 30px;
+    color: #306985;
+}
+#revenda .row{
+    margin: 10px;
+}
+
+
+#videos{
+    margin-top: 40px;
+}
+#videos .container {
+    margin-top: 40px;
+    background-color: whitesmoke;
+}
+
+#videos .container .row .col {
+
+    margin:20px 10px 20px 10px;
+}
+
+#videos hr{
+    border: 2px solid;
+    margin: 5px 45% 30px;
+    color: #306985;
+}
+
+
+#contato{
+    margin-top: 40px;
+}
+#contato hr{
+    border: 2px solid;
+    margin: 5px 45% 30px;
+    color: #306985;
+}
+#contato p{
+    text-align: center;
+    font-size: 20px;
+}
+
+#contato .container .row{
+    background-color: #343a404a;
+}
+#contato .container .row .fab {
+    font-size: 100px;
+    text-align: center;
+    text-decoration: none;
+    color: grey;
+    
+}
+
+#contato .container .row .col-sm{
+    text-align: center;
+}
+#contato .contato p{
+    text-align: center;
+    font-size: 18px;
+}
+#contato .contato i{
+    margin-top: 13px;
+    text-align: center;
+    font-size: 28px;
+}
+
+
+
+footer {
+    background-color:#343a40;
+    color: #fff;
+    margin-top: 10px;
+}
+
+
+.fas {
+    font-size: 50px;
+}
+
+.rodape {
+    padding-top: 20px;
+}
+
+
+.rodape i{
+    font-size: 30px;
+}
+
+.rodape img{
+    padding-top: 50px;
+    padding-right: 20px;
+    width: 230px;
+}
+
+.rodape hr{
+    border: 1px solid;
+    color: #306985;
+}
+
+#revenda .container img{
+    height: 60px;
+}
